@@ -1,121 +1,119 @@
 la Respuesta correcta = ®
-
+════════════════════════════░
 ¿Qué clase de incendio involucraría gases inflamables, solventes, pinturas u otros elementos que hervirían o burbujearían?
 O A. Clase A 
 ® B. Clase B
 O C. Clase C 
 O D. Clase D 
 O E. Clase K
-
+════════════════════════════░
 Los incendios se dividen en clasificaciones basadas en:
 ® A. El tipo de materiales que están en llamas (qué está alimentando el fuego) «
 O B. El tamaño del incendio y la rapidez con que se propaga <
 O C. La ubicación más cercana al extinguidor
 O D. Todas las respuestas anteriores
-^ Co
+════════════════════════════░
 ¿De qué clase de incendio formarían parte los equipos eléctricos o los artículos que transportan corriente?
 O A. Clase A 
 O B. Clase B
 ® C. Clase C 
 O D. Clase D 
 O E. Clase K
-
+════════════════════════════░
 El tetraedro del fuego consta de:
 ® A. Oxígeno, calor, combustible y una reacción química en cadena
 O B. Fuego, agua, oxígeno y una reacción química en cadena
 O C. C02, oxígeno, rayos y una reacción química en cadena
 O D. Todas las opciones anteriores son correctas 4
-
+════════════════════════════════════════════════════════░
 ¿Cuál de las siguientes afirmaciones es verdadera?
 O A. Los empleados son responsables de darle mantenimiento a los extinguidores de una instalación
 O B. Los extinguidores deben ser inspeccionados anualmente, mensualmente, semanalmente y cada hora por proveedores de servicios certificados
-® C. Los extinguidores deben estar en lugares donde nunca estén bloqueados u ocultos, que
-sean de fácil acceso, donde estén disponibles de inmediato y a lo largo de un pasillo de uso
-común
+® C. Los extinguidores deben estar en lugares donde nunca estén bloqueados u ocultos, que sean de fácil acceso, donde estén disponibles de inmediato y a lo largo de un pasillo de uso común
 O D. Los vehículos que transportan materiales peligrosos requieren extinguidores más pequeños que los que no lo hacen
-
+══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════░
 Un extinguidor etiquetado como 5A:25B indica que:
 O A. El extinguidor será eficaz en incendios en los que se estén quemando equipos eléctricos
 O B. El extinguidor será el equivalente a 25 galones (94.6 litros) de agua en fuegos clase A
 O C. El extinguidor cubrirá 10 pies cuadrados (.9 metros cuadrados) de fuegos clase A
 ® D. El extinguidor cubrirá 25 pies cuadrados (7.62 metros cuadrados) de fuegos clase B
-
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════░
 Usted trabaja en un taller de máquinas alrededor de limaduras de metal finas. ¿Cuál es el tipo más eficaz de extinguidor para tener cerca?
 O A. ABC polvo químico
 O B. Dióxido de carbono (C02) »	
 ® C. Clase D, polvo químico seco especial
 O D. Clase K, químicos húmedos
-
+══════════════════════════════════════════════════════════════════════════════════════════════════════════════░
 ¿Cuál de las siguientes afirmaciones con respecto al tamaño del extinguidor y los tiempos de descarga es verdadera?
 O A. La mayoría de los extinguidores descargarán el agente durante 2 a 3 minutos de uso continuo
 O B. Los tamaños más comunes de extinguidores son de tres, siete y doce libras (1.3, 3.1 y 5.4 kg)
 ® C. El volumen de agente descargado de un extinguidor más pequeño será menor que el expulsado por un extinguidor de mayor tamaño
 O D. Un extinguidor de diez libras (4.5 kg) es ideal para una oficina pequeña o un vehículo
-
+════════════════════════════════════════════════════════░
 Si la etiqueta de un extinguidor tiene varias letras, indica que:
 O A. El extinguidor es más eficaz en la primera letra de la etiqueta
 O B. El extinguidor no es eficaz en ninguna de las letras enumeradas
 ® C. El extinguidor satisface los requisitos de ambas o todas esas clases de letras
 O D. El extinguidor está dañado y debe retirarse de servicio
-
+══════════════════════════════════════════════════════════════════════════════════════════════════════════════░
 ¿Qué clases de incendios combate eficazmente un extinguidor de dióxido de carbono (C02) y cómo combate un incendio?
 ® A. Fuegos clase B y clase C: enfría y sofoca
 O B. Fuegos clase A y clase D: enfría y sofoca
 O C. Clase K-enfría
 O D. Clase A - sofoca
-
+══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════░
 Un incendio pequeño arde justo en su espacio de trabajo. Ha recibido capacitación y el EAP de su instalación lo autoriza a usar un extinguidor. El incendio es pequeño y está contenido, no parece extenderse, no hay humo y el incendio está ubicado en la esquina (no te bloquea la salida). Usted sabe que los materiales que arden en el incendio son papel y madera, y tiene un extinguidor clase A disponible de inmediato. Sin embargo su instinto le dice que salga. ¿Debería optar por combatir este incendio?
 O A. Sí, es seguro combatir este incendio
 ® B. No, no es seguro combatir este incendio
 O C. No hay suficiente información sobre el incendio para tomar una decisión
-
+══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════░
 Si ocurre un incendio, evacue siempre el área inmediatamente si:
 O A. El plan de acción en caso de emergencia de su instalación no autoriza el uso de extinguidores
 O B. No está familiarizado con las políticas del plan de acción en caso de emergencia de su instalación sobre quién puede combatir un incendio
 O C. Su instinto le dice que salga
 O D. No ha sido capacitado adecuadamente para usar un extinguidor
 ® E. Todas las respuestas anteriores 4
-
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════░
 Un fuego pequeño arde justo en frente de la salida de su espacio de trabajo. Ha recibido capacitación y el EAP de su instalación lo autoriza a usar un extinguidor. No hay mucho humo, el fuego es pequeño y está contenido, no parece extenderse, y ha identificado una ruta de escape alternativa. Ha determinado que se trata de un fuego clase A y tiene un extinguidor de polvo químico seco ABC disponible de inmediato. ¿Debería optar por combatir este incendio?
 ® A. Sí, es seguro combatir este incendio 4
 O B. No, no es seguro combatir este incendio
 O C. No hay suficiente información sobre el incendio para tomar una decisión
-
+══════════════════════════════════════════════════════════════════════════════════════════════════════════════░
 Antes de decidirse a combatir un incendio, ¿qué debe hacer siempre?
 O A. Rescatar o ayudar a cualquier persona en peligro (si puede hacerlo de manera segura)
 O B. Hacer sonar la alarma contra incendios
 O C. Asegurar que el extinguidor disponible para usted combatirá adecuadamente el fuego
 ® D. Debería hacer todo lo anterior
-
+══════════════════════════════════════════════════════════════════════════════════════════════════════════════░
 75 ¿Cuál de las siguientes acciones debe hacer después de combatir un incendio?
 O A. Salir del edificio y regresar después de 10 minutos
 O B. Devolver el extinguidor usado a su ubicación anterior
 ® C. Al evacuar, deje la puerta abierta para que otros salgan
 ® D. Notificar a la persona o al departamento correspondiente responsable del mantenimiento del extinguidor
-
+══════════════════════════════════════════════════════════════════════════════════════════════════════════════░
 Ha decidido apagar un pequeño incendio en su oficina. Selecciona el extinguidor adecuado. Antes de que pueda comenzar a usar el extinguidor, debe:
 O A. Apretar la palanca del extinguidor y el mango de transporte
 ® B. Tirar del pasador para desbloquear el extinguidor
 O C. Apuntar el extinguidor a la base del fuego
 O D. Llamar a un colega para que lo ayude
-
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════░
 ¿De qué clase de fuego formarían parte los metales en combustión, como el titanio o el acero?
 O A. Clase A
 O B. Clase B
 O C. Clase C
 ® D. Clase D
 O E. Clase K
-
+══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════░
 ¿Qué extinguidor sería más eficaz para combatir un incendio en el que arden madera, papel y líquidos inflamables?
 O A. Dióxido de carbono (C02)
 O B. Agua
 ® C. Espuma o polvo químico seco ABC
 O D. Todo lo anterior funcionará en incendios donde se queman madera, papel y líquidos inflamables
-
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════░
 ¿Cuáles de los siguientes son factores que debe considerar antes de optar por combatir un incendio?
 O A. Su experiencia previa en la lucha contra incendios, los materiales que arden en el fuego, el tipo de agente en el extinguidor
 ® B. Las políticas de combate de Incendios del EAP de su Instalación, el equipo de combate de incendios disponible para usted, la calidad del aire donde arde el fuego, el tamaño del incendio y dónde se encuentra la salida
 O C. La cantidad de personas en el área, la comodidad de su supervisor con el combate contra incendios, sus años de trabajo con este empleador
 O D. Las políticas de capacitación del EAP de su instalación, la ubicación de la estación de bomberos más cercana a su instalación, su posición actual con su supervisor
-
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════░
 
