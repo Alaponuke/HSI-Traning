@@ -1,59 +1,103 @@
 Resucitacion Cardio pulmonar
-la Respuesta correcta = ®
-----------------------------¦
-¿Cuál de las siguientes respuestas es la correcta para alguien que está inconsciente y no respira, o solo jadea?O
-O A. Llamar a los EMS y continuar supervisando a la víctima hasta que lleguen los EMS
-® B. Llamar a los EMS, comenzar la CPR solo con compresiones y usar un AED tan pronto como llegue
-O C. Llamar a los EMS, colocar a la víctima de medio lado y usar un AED tan pronto como llegue
-O D. Realizar CPR solo con compresiones, usar un AED tan pronto como llegue, y llamar a los EMS solo si la persona sigue inconsciente
-----------------------------¦
+la Respuesta correcta = ✔
+-------------------------------¦----------------------------¦-------------------------¦
+¿Cuál de las siguientes respuestas es la correcta para alguien que está inconsciente y no respira, o solo jadea?
+✘ A. Llamar a los EMS y continuar supervisando a la víctima hasta que lleguen los EMS
+✔ B. Llamar a los EMS, comenzar la CPR solo con compresiones y usar un AED tan pronto como llegue
+✘ C. Llamar a los EMS, colocar a la víctima de medio lado y usar un AED tan pronto como llegue
+✘ D. Realizar CPR solo con compresiones, usar un AED tan pronto como llegue, y llamar a los EMS solo si la persona sigue inconsciente
+-------------------------------¦----------------------------¦-------------------------¦
 ¿Cuál de las siguientes afirmaciones acerca de la administración de compresiones del pecho NO es verdadera?
 o	A.Coloque el talón de una mano en el centro del pecho de la víctima (la mitad inferior del esternón y el talón de la otra mano sobre la primera mano
 o	B.Sin apoyarse sobre el pecho, mantenga los codos rectos y levante los hombros, directamente sobre sus manos
 o	c.Utilice el peso de la parte superior de su cuerpo, en lugar de sus brazos, y presione directamente hacia abajo, con compresiones del pecho de al menos dos pulgadas (5 cm)
 o	D.Permita que el pecho regrese completamente a su posición normal entre cada compresión
 o	E.Minimice cualquier interrupción al realizar compresiones del pecho
-®	F.Dé compresiones a una velocidad de 60 a 80 por minuto
-----------------------------¦
+✔	F.Dé compresiones a una velocidad de 60 a 80 por minuto
+-------------------------------¦----------------------------¦-------------------------¦
 ¿Cuál de los siguientes NO es un paso a realizar cuando se utiliza un AED?
-O A. Asegúrese de que los electrodos no estén en contacto con ninguna superficie metálica
-O B. Asegúrese de que nadie esté tocando a la víctima mientras el AED analiza su ritmo cardíaco
-O C. Asegúrese de que nadie esté tocando a la víctima antes de administrar una descarga
-® D. Todas las opciones anteriores son pasos a seguir cuando se utiliza un AED
-----------------------------¦
+✘ A. Asegúrese de que los electrodos no estén en contacto con ninguna superficie metálica
+✘ B. Asegúrese de que nadie esté tocando a la víctima mientras el AED analiza su ritmo cardíaco
+✘ C. Asegúrese de que nadie esté tocando a la víctima antes de administrar una descarga
+✔ D. Todas las opciones anteriores son pasos a seguir cuando se utiliza un AED
+-------------------------------¦----------------------------¦-------------------------¦
 ¿Cuál de las siguientes afirmaciones sobre los AED NO es verdadera?
-O A. Un AED es un desfibrilador que analiza el ritmo cardíaco de la víctima, determina si se necesita una descarga y le indica al usuario cuándo administrarla
-O B. Cuanto antes se pueda usar un AED, más probabilidades hay de que una víctima de un SCA sobreviva
-® C. Usar un AED es la única manera de tratar a una víctima que sufrió un paro cardíaco repentino
-O D. La desfibrilación con un AED es la única manera de restablecer el latido cardíaco
-----------------------------¦
+✘ A. Un AED es un desfibrilador que analiza el ritmo cardíaco de la víctima, determina si se necesita una descarga y le indica al usuario cuándo administrarla
+✘ B. Cuanto antes se pueda usar un AED, más probabilidades hay de que una víctima de un SCA sobreviva
+✔ C. Usar un AED es la única manera de tratar a una víctima que sufrió un paro cardíaco repentino
+✘ D. La desfibrilación con un AED es la única manera de restablecer el latido cardíaco
+-------------------------------¦----------------------------¦-------------------------¦
 Las instrucciones de voz del AED NO le indicarán que:
-O A. Aplique los electrodos que se incluyen en el kit del AED al pecho de la víctima
-O B. Se abstenga de tocar a la víctima mientras el AED evalúa el ritmo cardíaco de la víctima 
-O C. Se abstenga de tocar a la víctima mientras el AED brinda una descarga
-® D. Encienda el sistema
-----------------------------¦
+✘ A. Aplique los electrodos que se incluyen en el kit del AED al pecho de la víctima
+✘ B. Se abstenga de tocar a la víctima mientras el AED evalúa el ritmo cardíaco de la víctima 
+✘ C. Se abstenga de tocar a la víctima mientras el AED brinda una descarga
+✔ D. Encienda el sistema
+-------------------------------¦----------------------------¦-------------------------¦
 ¿Cuál de las siguientes NO es una afirmación verdadera sobre el uso de un AED?
-O A. Asegúrese de que la víctima esté boca arriba en una superficie dura y plana antes de usar el AED
-® B. No utilice un AED si la víctima tiene dispositivos médicos implantados
-O C. Retire a la víctima de cualquier agua estancada antes de usar el AED
-O D. Use la navaja de afeitar del kit del AED para eliminar el vello del pecho en las áreas de colocación de los electrodos si es necesario
-----------------------------¦
+✘ A. Asegúrese de que la víctima esté boca arriba en una superficie dura y plana antes de usar el AED
+✔ B. No utilice un AED si la víctima tiene dispositivos médicos implantados
+✘ C. Retire a la víctima de cualquier agua estancada antes de usar el AED
+✘ D. Use la navaja de afeitar del kit del AED para eliminar el vello del pecho en las áreas de colocación de los electrodos si es necesario
+-------------------------------¦----------------------------¦-------------------------¦
 Si un AED determina que es necesaria una descarga, debe hacer todo EXCEPTO:
-O A. Asegurarse de que nadie esté tocando a la víctima antes de administrar una descarga
-O B. Presionar el botón de descarga cuando se le indique
-O C. Reanudar las compresiones del pecho inmediatamente luego de administrar una descarga
-® D. Dar otra descarga si la primera no parece tener efecto sobre la víctima
-----------------------------¦
+✘ A. Asegurarse de que nadie esté tocando a la víctima antes de administrar una descarga
+✘ B. Presionar el botón de descarga cuando se le indique
+✘ C. Reanudar las compresiones del pecho inmediatamente luego de administrar una descarga
+✔ D. Dar otra descarga si la primera no parece tener efecto sobre la víctima
+-------------------------------¦----------------------------¦-------------------------¦
 ¿Cuál de las siguientes afirmaciones acerca de la CPR NO es verdadera?
-O A. Brindar CPR solo con compresiones de forma inmediata y la desfibrilación temprana darán a las víctimas de un SCA la mejor oportunidad de supervivencia
-O B. La CPR temprana permite ganar tiempo para la víctima hasta que llegue un AED o los servicios médicos de emergencia
-O C. Una víctima de SCA estará inconsciente y no respirará o estará inconsciente y solo jadeará
-® D. La CPR solo con compresiones es una técnica que puede reanimar el corazón de alguien que ha sufrido un paro cardíaco repentino
-O E. Debe continuar con la CPR solo con compresiones hasta que llegue un AED o los EMS, la víctima comience a moverse o a respirar por su cuenta, o usted esté demasiado agotado para continuar
-----------------------------¦
+✘ A. Brindar CPR solo con compresiones de forma inmediata y la desfibrilación temprana darán a las víctimas de un SCA la mejor oportunidad de supervivencia
+✘ B. La CPR temprana permite ganar tiempo para la víctima hasta que llegue un AED o los servicios médicos de emergencia
+✘ C. Una víctima de SCA estará inconsciente y no respirará o estará inconsciente y solo jadeará
+✔ D. La CPR solo con compresiones es una técnica que puede reanimar el corazón de alguien que ha sufrido un paro cardíaco repentino
+✘ E. Debe continuar con la CPR solo con compresiones hasta que llegue un AED o los EMS, la víctima comience a moverse o a respirar por su cuenta, o usted esté demasiado agotado para continuar
+-------------------------------¦----------------------------¦-------------------------¦
 ¿Cuál de las siguientes afirmaciones sobre los AED NO es verdadera?
-® A. Los kits de AED siempre se encuentran cerca de las salidas de emergencia
-O B. Debe utilizar un AED tan pronto como llegue si sospecha que una víctima ha sufrido un paro cardíaco repentino
-O C. Debe usar un AED solo en las víctimas inconscientes y que no respiran o que solo jadean «
-O D. Debe realizar CPR solo con compresiones hasta que llegue un AED
+✔ A. Los kits de AED siempre se encuentran cerca de las salidas de emergencia
+✘ B. Debe utilizar un AED tan pronto como llegue si sospecha que una víctima ha sufrido un paro cardíaco repentino
+✘ C. Debe usar un AED solo en las víctimas inconscientes y que no respiran o que solo jadean «
+✘ D. Debe realizar CPR solo con compresiones hasta que llegue un AED
+-------------------------------¦----------------------------¦-------------------------¦
+¿Cuál de las siguientes es una afirmación verdadera sobre el uso de un AED?
+✘ A. Asegúrese de que la víctima esté acostada de lado sobre una superficie dura antes de usar el AED
+✔ B. Coloque las almohadillas del AED a una distancia mínima de 2,5 cm (1 pulgada) de cualquier dispositivo médico implantado que se sospeche
+✘ C. No lo use si la víctima tiene un dispositivo médico implantado sospechoso
+-------------------------------¦----------------------------¦-------------------------¦
+¿Qué es lo primero que debe hacer al usar un AED?
+✔ A. Enciéndelo y sigue las instrucciones de voZ paso a paso
+✘ B. Comprobar el pulso de la víctima
+✘ C. Llame al 911 antes de usarlo para solicitar instrucciones
+-------------------------------¦----------------------------¦-------------------------¦
+¿Cuál de las siguientes es la mejor manera de ayudar a una persona que ha sufrido un paro cardíaco?
+✘ A. Realice CPR solo con compresión durante cinco minutos y luego evalúe nuevamente
+✘ B. Llame al 911, proporcione agua y una manta, y espere a que llegue la ayuda
+✔ C. Realice CPR solo con compresiones y use un AED
+-------------------------------¦----------------------------¦-------------------------¦
+¿Cuál de las siguientes es correcta cuando se realiza CPR solo con compresión?
+✘ A. Empuje con fuerza, con los codos bloqueados, hacia abajo y comprima el pecho al menos 2 pulgadas
+✘ B. Use el peso de la parte superior de su cuerpo, no la fuerza del brazo, para empujar el pecho hacia abajo
+✔ C. Todas las anteriores son correctas
+-------------------------------¦----------------------------¦-------------------------¦
+Si no hay un AED disponible, ¿cuánto tiempo debe continuar con la RCP solo con compresión?
+✘ A. Hasta que la víctima comience a moverse ✘ respirar
+✘ B. Hasta que otro proveedor de CPR ✘ EMS se haga cargo
+✔ C. Todo lo anterior
+-------------------------------¦----------------------------¦-------------------------¦
+¿Cuál de los siguientes es el propósito de la desfibrilación con un AED?
+✘ ✘ A. Para proporcionar oxígeno fresco al corazón
+✘ B. Para que el corazón deje de latir
+✔ C. Para restaurar un latido y pulso regulares
+-------------------------------¦----------------------------¦-------------------------¦
+Si un AED determina que es necesaria una descarga, ¿qué debe hacer?
+✘ A. Asegúrese de que nadie toque a la víctima antes de administrar la descarga
+✘ B. Presiona el botón de descarga cuando se te indique
+✔ C. Inmediatamente reanude las compresiones torácicas después de administrar la descarga
+-------------------------------¦----------------------------¦-------------------------¦
+Encuentra a una persona que no responde y no puede respirar normalmente. 
+Activas un AED y te dice que coloques las almohadillas en el pecho de la víctima. ¿Qué deberías hacer después?
+✘ A. Asegúrese de que alguien sostenga la cabeza ✘ la mano de la víctima
+✔  B. Retire cualquier ropa que esté cubriendo el pecho de la víctima
+✘ C. Presiona el botón para dar una descarga
+
+
+
